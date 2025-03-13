@@ -1,4 +1,4 @@
-# 👋 Ciao, sono [Mattia Vendrametto]  
+# 👋 Ciao, sono *Mattia Vendrametto*
 
 🎓 Studente di **Sicurezza dei Sistemi e delle Reti Informatiche** all'Università degli Studi di Milano.  
 👀 Appassionato di programmazione, sicurezza informatica e sviluppo software.  
