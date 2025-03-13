@@ -1,7 +1,9 @@
 # 👋 Ciao, sono *Mattia Vendrametto*
 
-🎓 Studente di **Sicurezza dei Sistemi e delle Reti Informatiche** all'Università degli Studi di Milano.  
+🎓 Studente di **Sicurezza dei Sistemi e delle Reti Informatiche** all'Università degli Studi di Milano. 
+
 👀 Appassionato di programmazione, sicurezza informatica e sviluppo software.  
+
 💻 Competenze acquisite e sviluppate nell'ambito dell'informatica:
 - **Programmazione e Programmazione Web e Mobile**
 - **Architettura degli elaboratori**: Conoscenza approfondita delle architetture hardware e della gestione dei sistemi a basso livello.
@@ -13,6 +15,7 @@
 - **Sistemi Biometrici**: Familiarità con le tecnologie biometriche utilizzate nella sicurezza informatica.
 - **Computer Forensics**: Esperienza nelle tecniche di analisi forense dei sistemi informatici per la raccolta e conservazione delle prove digitali.
 - **Sicurezza dei Sistemi e delle Reti Informatiche**: Approfondimento delle tecniche di protezione dei sistemi e delle reti contro le minacce e le vulnerabilità.
+
 🚀 Conosco e utilizzo diversi linguaggi di programmazione e di markup, tra cui:  
 - **Java**
 - **C**
