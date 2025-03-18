@@ -5,9 +5,10 @@
 👀 Appassionato di programmazione, sicurezza informatica e sviluppo software.  
 
 💻 Competenze acquisite e sviluppate nell'ambito dell'informatica:
-- **Programmazione e sviluppo web e mobile**: Competenze nella programmazione di applicazioni software e sviluppo di applicazioni web e mobile, curando sia la logica di funzionamento che l'interfaccia utente.
+- **Programmazione softawre**: Competenze nella programmazione di applicazioni usando molteplici linguaggi di programmazione.
 - **Architettura degli elaboratori**: Conoscenza approfondita delle architetture hardware e della gestione dei sistemi a basso livello.
 - **Diritto Penale dell'Informatica**: Conoscenze giuridiche riguardo alle leggi che regolano l'uso delle tecnologie informatiche e la protezione dei dati.
+- **Programmazione web e mobile**: Competenze nella programmazione e sviluppo di applicazioni web e mobile, curando sia la logica di funzionamento che l'interfaccia utente.
 - **Algoritmi e Strutture Dati**: Competenza nella progettazione e implementazione di algoritmi e strutture dati per ottimizzare performance e risorse.
 - **Sistemi Operativi**: Conoscenze avanzate dei principali sistemi operativi, inclusi Linux e Windows, con esperienza pratica nella gestione di risorse e nella programmazione di basso livello.
 - **Basi di Dati**: Esperienza nell'uso di database relazionali e non con gestione delle informazioni.
