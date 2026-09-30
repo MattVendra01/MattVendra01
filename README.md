@@ -67,7 +67,7 @@ Sono interessato a opportunità professionali che mi permettano di applicare qua
 
 ## 📫 Contatti
 
-- 💼 [LinkedIn]([INSERISCI_LINK](https://www.linkedin.com/in/mattia-vendrametto-2304)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mattia-vendrametto-2304)
 - 📧 [Email](mailto:mattiavendrametto@gmail.com)
 
 <!---
