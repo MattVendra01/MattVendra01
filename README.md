@@ -67,8 +67,8 @@ Sono interessato a opportunità professionali che mi permettano di applicare qua
 
 ## 📫 Contatti
 
-- 💼 [LinkedIn](INSERISCI_LINK)
-- 📧 [Email](mailto:INSERISCI_EMAIL)
+- 💼 [LinkedIn]([INSERISCI_LINK](https://www.linkedin.com/in/mattia-vendrametto-2304)
+- 📧 [Email](mailto:mattiavendrametto@gmail.com)
 
 <!---
 MattVendra01/MattVendra01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
