@@ -1,37 +1,74 @@
-# 👋 Ciao, sono *Mattia Vendrametto*
+# 👋 Ciao, sono Mattia Vendrametto
 
-🎓 Studente di **Sicurezza dei Sistemi e delle Reti Informatiche** all'Università degli Studi di Milano. 
+🎓 Laureato in **Sicurezza dei Sistemi e delle Reti Informatiche** presso l'Università degli Studi di Milano.
 
-👀 Appassionato di programmazione, sicurezza informatica e sviluppo software.  
+💻 Sono interessato al mondo **IT**, con particolare attenzione a **Cybersecurity**, **Digital Forensics**, sviluppo software e tecnologie DevOps.
 
-💻 Competenze acquisite e sviluppate nell'ambito dell'informatica:
-- **Programmazione softawre**: Competenze nella programmazione di applicazioni usando molteplici linguaggi di programmazione.
-- **Architettura degli elaboratori**: Conoscenza approfondita delle architetture hardware e della gestione dei sistemi a basso livello.
-- **Diritto Penale dell'Informatica**: Conoscenze giuridiche riguardo alle leggi che regolano l'uso delle tecnologie informatiche e la protezione dei dati.
-- **Programmazione web e mobile**: Competenze nella programmazione e sviluppo di applicazioni web e mobile, curando sia la logica di funzionamento che l'interfaccia utente.
-- **Algoritmi e Strutture Dati**: Competenza nella progettazione e implementazione di algoritmi e strutture dati per ottimizzare performance e risorse.
-- **Sistemi Operativi**: Conoscenze avanzate dei principali sistemi operativi, inclusi Linux e Windows, con esperienza pratica nella gestione di risorse e nella programmazione di basso livello.
-- **Basi di Dati**: Esperienza nell'uso di database relazionali e non con gestione delle informazioni.
-- **Reti di Calcolatori**: Conoscenze approfondite delle reti informatiche, della loro configurazione e gestione.
-- **Sistemi Biometrici**: Familiarità con le tecnologie biometriche utilizzate nella sicurezza informatica.
-- **Computer Forensics**: Esperienza nelle tecniche di analisi forense dei sistemi informatici per la raccolta e conservazione delle prove digitali.
-- **Sicurezza dei Sistemi e delle Reti Informatiche**: Approfondimento delle tecniche di protezione dei sistemi e delle reti contro le minacce e le vulnerabilità.
+🔐 Mi interessa comprendere il funzionamento di sistemi, reti e applicazioni, analizzarne gli aspetti di sicurezza e continuare a sviluppare nuove competenze attraverso progetti ed esperienze pratiche.
 
-🚀 Conosco e utilizzo diversi linguaggi di programmazione e di markup, tra cui:  
-- **Java**
-- **C**
-- **Assembly x86**
-- **HTML, CSS, JavaScript**
-- **Node.js**
-- **Shell Scripting**
-- **SQL**
-- **Python**
-<!-- 💡 Prolog, Lisp, Julia, Haskell -->
-🌱 Sto imparando le seguenti competenze in ambito informatico:
-- **Ruby**
-- **MD**
+---
 
-📫 Puoi trovarmi qui su GitHub, dove condivido progetti e sperimento nuove tecnologie!
+## 🚀 Progetti principali
+
+### 🔐 Verifica della sicurezza in sistemi Kubernetes
+Tesi e attività di tirocinio svolte presso **SESAR Lab – Università degli Studi di Milano**.
+
+Analisi della sicurezza di un ambiente Kubernetes secondo il **CIS Kubernetes Benchmark**, con individuazione e valutazione delle non conformità, applicazione di interventi di hardening e successiva verifica delle configurazioni.
+
+**Tecnologie:** Kubernetes · Minikube · kubectl · Docker · Docker Desktop · WSL 2 · Debian · Windows 11 · PowerShell · YAML
+
+### 🍔 FastFood
+Progetto universitario sviluppato nell'ambito del corso di **Programmazione Web e Mobile**.
+
+Piattaforma full-stack per il food ordering con autenticazione e ruoli, gestione di ristoranti e menu, catalogo, carrello, ordini, ricerca, filtri, paginazione e statistiche per i ristoratori.
+
+**Tecnologie:** HTML · CSS · Bootstrap · JavaScript · JSON · Node.js · Express.js · REST API · CORS · MongoDB · Mongoose · JWT · bcryptjs · Swagger · Postman
+
+---
+
+## 🛠️ Competenze tecniche
+
+### Programmazione
+`Java` `C` `JavaScript` `Bash` `Shell Scripting` `Assembly x86`
+
+### Web & Backend
+`HTML` `CSS` `Bootstrap` `Node.js` `Express.js` `REST API` `JWT` `CORS`
+
+### Database
+`SQL` `MySQL` `MongoDB` `Mongoose`
+
+### Sistemi
+`Windows 11` `Linux` `Debian` `Ubuntu` `WSL 2` `PowerShell`
+
+### Reti
+`IPv4/IPv6` `TCP/UDP` `ARP` `Routing` `Switching` `DNS/DHCP` `Subnetting` `Wireshark`
+
+### Cybersecurity
+`Security Auditing` `Hardening` `Sicurezza di sistemi, reti e Web` `Computer Forensics`
+
+### DevOps & strumenti
+`Docker` `Docker Desktop` `Kubernetes` `Minikube` `kubectl` `Git` `GitHub`
+
+---
+
+## 🔧 Software e strumenti
+
+`Visual Studio Code` · `Eclipse` · `Postman` · `Swagger` · `MongoDB Compass` · `phpMyAdmin` · `IMUNES` · `VMware` · `VirtualBox` · `Overleaf`
+
+---
+
+## 🌱 Attualmente
+
+Sto continuando ad approfondire le mie competenze nel settore IT, con particolare interesse per **Cybersecurity e Digital Forensics**, mantenendo allo stesso tempo un approccio aperto verso nuove tecnologie e ambiti specialistici.
+
+Sono interessato a opportunità professionali che mi permettano di applicare quanto appreso, affrontare nuove sfide tecniche e continuare a crescere professionalmente.
+
+---
+
+## 📫 Contatti
+
+- 💼 [LinkedIn](INSERISCI_LINK)
+- 📧 [Email](mailto:INSERISCI_EMAIL)
 
 <!---
 MattVendra01/MattVendra01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
